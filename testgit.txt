@@ -2,4 +2,5 @@
 
 this is a test for github
 
-sk2 add
+sk2 del add
+dd add 
